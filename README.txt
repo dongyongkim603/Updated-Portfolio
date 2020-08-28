@@ -1,5 +1,5 @@
 This is a prototype of my digital portfolio in website form. It utilizes several basic 
-front-end tools and techniques such as Bootstrap, css, JavaScript, DOM Oject manipulation,
+front-end tools and techniques such as Bootstrap, css, JavaScript, DOM Object manipulation,
 and animations.
 
 The page format uses cards to organize the content. These cards are stylized with backgound
